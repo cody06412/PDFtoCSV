@@ -20,5 +20,6 @@ The output of this process will be a Python dictionary containing information ex
 5. The complete text content of the page
 
 You can see a flowchart of the process below:
+It will be updated soon.
 
 <img src="Text Extraction Flowchart.png" width="500" height="1000">
