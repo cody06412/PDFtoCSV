@@ -12,6 +12,7 @@ To achieve that I will use the **PDFMiner** library to perform an initial analys
 Then based on the component found I will apply the appropriate function and Python Library. 
 
 The output of this process will be a Python dictionary containing information extracted for each page of the PDF file. Each key in this dictionary will present the page number of the document, and its corresponding value will be a list with the following 5 nested lists containing:
+
 1. The text extracted per text block of the corpus
 2. The format of the text in each text block in terms of font family and size
 3. The text extracted from the images on the page
